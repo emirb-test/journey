@@ -1,4 +1,6 @@
 ## Boarding pass sorter
+[![Build Status](https://travis-ci.org/emirb-test/journey.svg?branch=master)](https://travis-ci.org/emirb-test/journey)
+
 This is a simple boarding pass sorter algorithm made for solving travelling salesman problem.
 
 ## Installation
