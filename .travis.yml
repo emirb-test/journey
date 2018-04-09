@@ -1,0 +1,7 @@
+language: php
+php:
+  - 7.2
+
+language: php
+sudo: false
+script: vendor/bin/phpunit
