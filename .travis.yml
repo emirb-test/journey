@@ -4,4 +4,6 @@ php:
 
 language: php
 sudo: false
-script: vendor/bin/phpunit
+script:
+  - composer install
+  - vendor/bin/phpunit
